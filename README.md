@@ -138,3 +138,15 @@ How to submit the challenge:
 |   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | 150 U | Ongoing |
 |   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | 150 U | Ongoing |
 |   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | 150 U | Ongoing |
+## Arweave Academy Personal File
+
+### Personal information
+
+- github account: 
+- Email: 
+- Arweave Address: 
+- ETH Address: 
+- Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
+
+### Introduce Yourself
+ i'am have biggest enthusiast in developing dApps in many chain in the web3 circle, im curently working a freelance in node developer, node runner, node operator etc
